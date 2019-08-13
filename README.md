@@ -2,7 +2,7 @@
 
 Factory pattern is one of the most used design patterns in Java. 
 
-When the programmers don't know what kind of objects will be needed. The Objects can be items, products, logistic-type etc.
+When the programmers don't know what kind of objects will be needed. The Objects can be items, products, logistic-type, frameworks etc.
 
 In Factory pattern, we create object withouts exposing the creation logic to the client 
 and refer to newly created object using a common interface.
